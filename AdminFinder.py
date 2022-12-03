@@ -4,9 +4,10 @@
 import requests
 # colorama for chenge Color Text in console
 from colorama import Fore, init
+import os
 
 init()
-
+os.system('cls')
 casper = '''
     _..gggggppppp.._                       
                   _.gd$$$$$$$$$$$$$$$$$$bp._                  
